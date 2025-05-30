@@ -1,0 +1,15 @@
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\bin\Debug\net9.0\OperadoresAtribuicao.exe
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\bin\Debug\net9.0\OperadoresAtribuicao.deps.json
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\bin\Debug\net9.0\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\bin\Debug\net9.0\OperadoresAtribuicao.dll
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\bin\Debug\net9.0\OperadoresAtribuicao.pdb
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.sourcelink.json
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.dll
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\obj\Debug\net9.0\refint\OperadoresAtribuicao.dll
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.pdb
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.genruntimeconfig.cache
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\OperadoresAtribuicao\obj\Debug\net9.0\ref\OperadoresAtribuicao.dll
