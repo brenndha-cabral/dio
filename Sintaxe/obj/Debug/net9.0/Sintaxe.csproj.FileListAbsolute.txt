@@ -1,0 +1,14 @@
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\bin\Debug\net9.0\Sintaxe.exe
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\bin\Debug\net9.0\Sintaxe.deps.json
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\bin\Debug\net9.0\Sintaxe.runtimeconfig.json
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\bin\Debug\net9.0\Sintaxe.dll
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\bin\Debug\net9.0\Sintaxe.pdb
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\obj\Debug\net9.0\Sintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\obj\Debug\net9.0\Sintaxe.AssemblyInfoInputs.cache
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\obj\Debug\net9.0\Sintaxe.AssemblyInfo.cs
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\obj\Debug\net9.0\Sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\obj\Debug\net9.0\Sintaxe.dll
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\obj\Debug\net9.0\refint\Sintaxe.dll
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\obj\Debug\net9.0\Sintaxe.pdb
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\obj\Debug\net9.0\Sintaxe.genruntimeconfig.cache
+C:\Users\cabra\OneDrive\Área de Trabalho\DIO\repositórios\dio\Sintaxe\obj\Debug\net9.0\ref\Sintaxe.dll
